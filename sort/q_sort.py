@@ -30,6 +30,9 @@ def qsort(nums):
 
 
 
+
+
+
 if __name__ == "__main__":
     import random
     numbers = [random.randint(2, 100) \
